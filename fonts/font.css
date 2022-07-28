@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'NothingYouCouldDo';
+  src: url('NothingYouCouldDo.eot');
+  src: url('NothingYouCouldDo.eot?#iefix') format('embedded-opentype'),
+       url('NothingYouCouldDo.ttf') format('truetype'),
+       url('NothingYouCouldDo.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
